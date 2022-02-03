@@ -1,0 +1,72 @@
+header{
+  height: 83.5vh;
+  width: auto;
+}
+
+main{
+
+  width: auto;
+}
+
+footer{
+  height: 13vh;
+  width: auto;
+}
+
+
+.header-row{
+  height: 100%;
+  width: 100%;
+}
+
+.nothere{
+  color: rgba(255, 255, 255, 0)
+}
+
+.phi{
+  background-image: url('https://howtofeedaloon.com/wp-content/uploads/2020/06/gryo-instagram.jpg');
+  min-height: 70vh;
+  min-width: 100vw;
+  background-size: cover;
+}
+
+.card{
+  background-color: rgba(255, 248, 220, 0.774);
+  border-radius: 2%;
+  height: 55%;
+  max-width: 50%;
+}
+
+.review-card{
+  background-color: rgba(255, 248, 220, 0.774);
+  border-radius: 2%;
+
+}
+
+
+.drink{
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/0/0f/Pepsi_logo_2014.svg');
+  height: 70%;
+  background-size: cover;
+}
+
+.truck{
+  background-image: url('https://txktoday.com/wp-content/uploads/2019/12/Mr-Gyro-II-1.jpg');
+  background-size: cover;
+  height:100%;
+  width: 50%;
+}
+
+.page-breaker{
+  height: 25vh;
+  background-size: cover;
+  background-color: rgba(255, 248, 220, 0.774);
+}
+
+.reviews{
+  font-family: 'Permanent Marker', cursive;
+}
+
+
+
+
